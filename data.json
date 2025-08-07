@@ -1,0 +1,16 @@
+{
+"meta_date": "2025-08-07T13:21:30+00:00",
+"title_date": "Aug 2025",
+"lang": [
+{"name":"Rust", "loc":4981059},
+{"name":"C", "loc":5479532},
+{"name":"C++", "loc":10659337},
+{"name":"JavaScript", "loc":11290016},
+{"name":"TypeScript", "loc":482953},
+{"name":"HTML", "loc":6284724},
+{"name":"Python", "loc":2120894},
+{"name":"Kotlin", "loc":755105},
+{"name":"Java", "loc":285220},
+{"name":"Assembly", "loc":294671}
+]
+}
